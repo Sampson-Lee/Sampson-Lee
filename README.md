@@ -5,7 +5,7 @@
 </a>
 
 ## About
-- 👀 I’m interested in facial expression-related tasks that include detection, recognition, comparison, and synthesis. So far, I propose [SIB-Net](https://github.com/Sampson-Lee/SIB-Net) [[1]](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net.pdf), [Rail-Net](https://github.com/Sampson-Lee/Rail-Detection) [[2]](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ACM_MM_2022_Rail_Detection.pdf), and AU-ViT [3] in the computer vision field.
+- 👀 I’m interested in facial expression-related tasks that include detection, recognition, comparison, and synthesis. 
 - 🌱 I’m currently learning computer vision and graphics, English writing, and optimization. I resort to updating videos to **[Bilibili](https://space.bilibili.com/111355637/)** for self-motivation and self-improvement.
 - 💞️ I’m looking for a Ph.D. position, collaborators and a girlfriend :-).
 - 📫 If you have questions, please do not hesitate to contact me at **(+86) 188 2607 4990** or **li.xin.peng@outlook.com**.
