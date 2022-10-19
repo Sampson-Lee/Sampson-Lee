@@ -18,7 +18,7 @@
 Sequential Interactive Biased Network for Context-Aware Emotion Recognition. \
 **Li, X.**, Peng, X., & Ding, C. \
 [**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net.pdf) & [**Code**](https://github.com/Sampson-Lee/SIB-Net). \
-In 2021 IEEE IJCB (pp. 1-6).
+In the 2021 IEEE IJCB (pp. 1-6).
 
 <br/>
 <br/>
@@ -36,5 +36,5 @@ In Proceedings of the 30th ACM MM (pp. 6455-6463).
 AU-Aware Vision Transformers for Biased Facial Expression Recognition. \
 **S. Mao, X. Li**, Q. Wu, and X. Peng. \
 [**Paper**]() & [**Code**]() will come soon. \
-Submitted to Transactions on Image Processing (TIP).
+Submitted to the Transactions on Image Processing (TIP).
 
