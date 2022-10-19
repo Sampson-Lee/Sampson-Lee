@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in facial expression-related tasks that include detection, recognition, comparison, and synthesis. Here is my **[CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi.pdf)**.
 - 🌱 I’m currently learning computer vision and graphics, English writing, and optimization. I resort to updating videos to **[Bilibili](https://space.bilibili.com/111355637/)** for self-motivation and self-improvement.
-- 💞️ I’m looking for a Ph.D. position, collaborators and a girlfriend :-).
+- 💞️ I’m looking for **a Ph.D. position**, collaborators and a girlfriend :-).
 - 📫 If you want to ask questions or share stories, please do not hesitate to contact me at **(+86) 188 2607 4990** or **li.xin.peng@outlook.com**.
 
 
