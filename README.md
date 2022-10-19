@@ -38,6 +38,3 @@ AU-Aware Vision Transformers for Biased Facial Expression Recognition. \
 [**Paper**]() & [**Code**]() will come soon. \
 Submitted to Transactions on Image Processing (TIP).
 
-<br/>
-<br/>
-
