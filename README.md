@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in facial expression-related tasks that include detection, recognition, comparison, and synthesis. 
 - 🌱 I’m currently learning computer vision and graphics, English writing, and optimization. I resort to updating videos to **[Bilibili](https://space.bilibili.com/111355637/)** for self-motivation and self-improvement.
-- 🎓 I got a bachelor's and master's degree from South China University of Technology (A top 20 University in China). Here is my **[CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi.pdf)**.
+- 🎓 I got a bachelor's and master's degree from South China University of Technology (Ranked #20 in China). Here is my **[CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi.pdf)**.
 - 💞️ I’m looking for **a Ph.D. position and a research assistant position** :-).
 - 📫 If you want to ask questions or share stories, please do not hesitate to contact me at **(+86) 188 2607 4990** or **li.xin.peng@outlook.com**.
 
