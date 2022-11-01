@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in facial expression-related tasks that include detection, recognition, comparison, and synthesis. 
 - 🌱 I’m currently learning computer vision and graphics, English writing, and optimization. I enjoy learning and updating videos to **[Bilibili](https://space.bilibili.com/111355637/)**. 
-- 🎓 I got a bachelor's and master's degree from South China University of Technology (Ranked #20 in China). I was supervised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN&oi=ao), [Prof. Changxing Ding](https://scholar.google.com/citations?user=8Z8jplgAAAAJ&hl=zh-CN&oi=ao), and [Prof. Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN&oi=ao). Here is my **[CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV%20XinpengLi%202022.pdf)**.
+- 🎓 I got a bachelor's and master's degree from South China University of Technology (Ranked #20 in China). I was supervised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN&oi=ao), Prof. [Changxing Ding](https://scholar.google.com/citations?user=8Z8jplgAAAAJ&hl=zh-CN&oi=ao), and Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN&oi=ao). Here is my **[CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV%20XinpengLi%202022.pdf)**.
 - 💞️ I’m looking for **a Ph.D. position** :-).
 - 📫 If you want to ask questions or share stories, please do not hesitate to contact me at **(+86) 188 2607 4990** or **li.xin.peng@outlook.com**.
 
