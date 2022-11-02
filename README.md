@@ -36,6 +36,6 @@ In Proceedings of the 30th ACM MM (pp. 6455-6463).
 [<img align="left" height="94px" width="94px" alt="TIP" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TIP_2022_AU_ViT_logo.png"/>]()
 AU-Aware Vision Transformers for Biased Facial Expression Recognition. \
 **S. Mao**\*, **X. Li**\*, Q. Wu, and X. Peng. (\* means equal contribution.)\
-[**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TIP_2022_AU_ViT.pdf) & [**Code**]() will come soon. \
+[**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TIP_2022_AU_ViT.pdf) & Code will come soon. \
 Submitted to the Transactions on Image Processing (TIP).
 
