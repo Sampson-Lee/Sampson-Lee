@@ -12,11 +12,11 @@
 - 📫 If you want to ask questions or share stories, please do not hesitate to contact me at **(+86) 188 2607 4990** or **li.xin.peng@outlook.com**.
 
 
-## Publications
+## Publications 
 
 [<img align="left" height="94px" width="94px" alt="ICCV" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ICCV_2022_FETR_logo.png"/>]()
 FETR: End-to-End Facial Expression Detection with Contextual Transformers. \
-**X. Li**\*, S. Mao\*, X. Peng, J. Wang, and F. Zheng. (\* means equal contribution.)\
+**X. Li**\*, S. Mao\*, X. Peng, J. Wang, and F. Zheng. (* means Equal Contribution) \
 Paper & Code will come soon. \
 Submitted to the ICCV 2023.
 
