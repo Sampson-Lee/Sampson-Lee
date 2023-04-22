@@ -14,11 +14,20 @@
 
 ## Publications
 
+[<img align="left" height="94px" width="94px" alt="TIP" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ICCV_2022_FETR_logo.png"/>]()
+FETR: End-to-End Facial Expression Detection with Contextual Transformers. \
+**X. Li**\*, S. Mao\*, X. Peng, J. Wang, and F. Zheng. (\* means equal contribution.)\
+Paper & Code will come soon. \
+Submitted to the ICCV 2023.
+
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="TIP" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TIP_2022_AU_ViT_logo.png"/>]()
 AU-Aware Vision Transformers for Biased Facial Expression Recognition. \
 S. Mao\*, **X. Li**\*, Q. Wu, and X. Peng. (\* means equal contribution.)\
 [**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TIP_2022_AU_ViT.pdf) & Code will come soon. \
-Submitted to the Transactions on Image Processing (TIP).
+Submitted to the TIP 2022.
 
 <br/>
 <br/>
@@ -29,11 +38,14 @@ Rail Detection: An Efficient Row-based Network and a New Benchmark. \
 [**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ACM_MM_2022_Rail_Detection.pdf) & [**Code**](https://github.com/Sampson-Lee/Rail-Detection). \
 In Proceedings of the 30th ACM MM (pp. 6455-6463).
 
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="IJCB" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net_logo.png"/>]()
 Sequential Interactive Biased Network for Context-Aware Emotion Recognition. \
 **Li, X.**, Peng, X., & Ding, C. \
 [**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net.pdf) & [**Code**](https://github.com/Sampson-Lee/SIB-Net). \
 In the 2021 IEEE IJCB (pp. 1-6).
 
-<br/>
+
 <br/>
