@@ -14,7 +14,7 @@
 
 ## Publications
 
-[<img align="left" height="94px" width="94px" alt="TIP" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ICCV_2022_FETR_logo.png"/>]()
+[<img align="left" height="94px" width="94px" alt="ICCV" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ICCV_2022_FETR_logo.png"/>]()
 FETR: End-to-End Facial Expression Detection with Contextual Transformers. \
 **X. Li**\*, S. Mao\*, X. Peng, J. Wang, and F. Zheng. (\* means equal contribution.)\
 Paper & Code will come soon. \
