@@ -6,9 +6,8 @@
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 👀 I focus on 3D anomaly detection and facial expression-related tasks. I am also interested in a wide range of computer vision tasks.
+- 👀 I focus on 3D anomaly detection and facial expression-related tasks. I am also interested in a wide range of computer vision tasks. Here is my **[Curriculum Vitae](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
 - 🌱 I’m currently learning computer vision and graphics, English writing, and optimization. I enjoy reading and uploading videos to **[Bilibili](https://space.bilibili.com/111355637/)**. 
-- 💞️ I’m looking for **a Ph.D. position** :-). Here is my **[Curriculum Vitae](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
 - 📫 If you want to ask questions or share stories, please do not hesitate to contact me at **(+86) 188 2607 4990** or **li.xin.peng@outlook.com**.
 
 
