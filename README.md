@@ -3,7 +3,7 @@
 
 ## About me
 <a target="_blank" align="center">
-  <img align="right" top="500" height="150" width="250" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif">
+  <img align="right" top="500" height="140" width="250" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif">
 </a>
 
 - 👀 I focus on 3D anomaly detection and facial expression-related tasks. I am also interested in a wide range of computer vision tasks. Here is my **[Curriculum Vitae](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
