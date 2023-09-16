@@ -26,7 +26,7 @@ Working on revising the paper after the ICCV 2023 submission.
 Rail Detection: An Efficient Row-based Network and a New Benchmark. \
 **Xinpeng Li**, and Xiaojiang Peng. \
 [**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ACM_MM_2022_Rail_Detection.pdf) & [**Code**](https://github.com/Sampson-Lee/Rail-Detection). \
-In Proceedings of the 30th ACM MM (pp. 6455-6463).
+In the 2022 ACM MM (pp. 6455-6463).
 
 <br/>
 <br/>
