@@ -13,7 +13,7 @@
 
 ## Selected Publications 
 
-[<img align="left" height="80px" width="120px" alt="ICCV" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
+[<img align="left" height="90px" width="120px" alt="ICCV" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
 VERT: End-to-End Visual Emotion Recognition with Contextual Transformers. \
 **Xinpeng Li**, Shuyi Mao, Teng Wang, Jinbao Wang, Feng Zheng, and Xiaojiang Peng.  \
 Paper & Code will come soon. \
@@ -22,7 +22,7 @@ Working on revising the paper after the ICCV 2023 submission.
 <br/>
 <br/>
 
-[<img align="left" height="80px" width="120px" alt="ACMMM" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ACM_MM_2022_Rail_Detection_logo.png"/>]()
+[<img align="left" height="90px" width="120px" alt="ACMMM" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ACM_MM_2022_Rail_Detection_logo.png"/>]()
 Rail Detection: An Efficient Row-based Network and a New Benchmark. \
 **Xinpeng Li**, and Xiaojiang Peng. \
 [**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ACM_MM_2022_Rail_Detection.pdf) & [**Code**](https://github.com/Sampson-Lee/Rail-Detection). \
@@ -31,7 +31,7 @@ In Proceedings of the 30th ACM MM (pp. 6455-6463).
 <br/>
 <br/>
 
-[<img align="left" height="80px" width="120px" alt="IJCB" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net_logo.png"/>]()
+[<img align="left" height="90px" width="120px" alt="IJCB" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net_logo.png"/>]()
 Sequential Interactive Biased Network for Context-Aware Emotion Recognition. \
 **Xinpeng Li**, Xiaojiang Peng, and Changxing Ding.. \
 [**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net.pdf) & [**Code**](https://github.com/Sampson-Lee/SIB-Net). \
