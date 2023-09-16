@@ -6,27 +6,18 @@
   <img align="right" top="500" height="140" width="250" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif">
 </a>
 
-- 👀 I focus on 3D anomaly detection and facial expression-related tasks. I am also interested in a wide range of computer vision tasks. Here is my **[Curriculum Vitae](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
-- 🌱 I’m currently learning computer vision and graphics, English writing, and optimization. I enjoy reading and uploading videos to **[Bilibili](https://space.bilibili.com/111355637/)**. 
+- 👀 I focus on visual affect computing and other AI-related tasks. Here is my **[Curriculum Vitae](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
+- 🌱 I’m currently reading cutting-edge papers, writing books, and optimization textbooks. I might upload related thoughts to **[Bilibili](https://space.bilibili.com/111355637/)**. 
 - 📫 If you want to ask questions or share stories, please do not hesitate to contact me at **(+86) 188 2607 4990** or **li.xin.peng@outlook.com**.
 
 
 ## Publications 
 
-[<img align="left" height="94px" width="94px" alt="ICCV" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ICCV_2022_FETR_logo.png"/>]()
-FETR: End-to-End Facial Expression Detection with Contextual Transformers. \
-**X. Li**\*, S. Mao\*, X. Peng, J. Wang, and F. Zheng. (* means Equal Contribution) \
+[<img align="left" height="94px" width="94px" alt="ICCV" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
+VERT: End-to-End Visual Emotion Recognition with Contextual Transformers. \
+**X. Li**, S. Mao, T. Wang, J. Wang, F. Zheng, and X. Peng.  \
 Paper & Code will come soon. \
-Submitted to the ICCV 2023.
-
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="TIP" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TIP_2022_AU_ViT_logo.png"/>]()
-AU-Aware Vision Transformers for Biased Facial Expression Recognition. \
-S. Mao\*, **X. Li**\*, Q. Wu, and X. Peng. (\* means equal contribution.)\
-[**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TIP_2022_AU_ViT.pdf) & Code will come soon. \
-Submitted to the TIP 2022.
+Working on revision after the ICCV 2023.
 
 <br/>
 <br/>
