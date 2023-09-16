@@ -17,7 +17,7 @@
 VERT: End-to-End Visual Emotion Recognition with Contextual Transformers. \
 **X. Li**, S. Mao, T. Wang, J. Wang, F. Zheng, and X. Peng.  \
 Paper & Code will come soon. \
-Working on revision after the ICCV 2023.
+Working on revision after submitting the ICCV 2023.
 
 <br/>
 <br/>
