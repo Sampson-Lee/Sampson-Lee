@@ -8,7 +8,7 @@
 
 - 👀 I specialize in visual affect computing and other AI-related tasks. You can find my Curriculum Vitae **[here](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
 - 🌱 Currently, I am immersed in the world of cutting-edge papers, writing, and optimization. I might also share related thoughts on my **[Bilibili channel](https://space.bilibili.com/111355637/)**. 
-- 📫 Feel free to reach out to me with your questions or stories at (+86) 188 2607 4990 or via email at li.xin.peng@outlook.com. I'm always eager to connect and exchange ideas.
+- 📫 Feel free to reach out to me at (+86) 188 2607 4990 or via email at li.xin.peng@outlook.com. I'm always eager to connect and exchange ideas.
 
 
 ## Selected Publications 
