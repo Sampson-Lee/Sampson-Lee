@@ -33,7 +33,7 @@ In the 2022 ACM MM (pp. 6455-6463).
 
 [<img align="left" height="90px" width="120px" alt="IJCB" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net_logo.png"/>]()
 Sequential Interactive Biased Network for Context-Aware Emotion Recognition. \
-**Xinpeng Li**, Xiaojiang Peng, and Changxing Ding.. \
+**Xinpeng Li**, Xiaojiang Peng, and Changxing Ding. \
 [**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net.pdf) & [**Code**](https://github.com/Sampson-Lee/SIB-Net). \
 In the 2021 IEEE IJCB (pp. 1-6).
 
