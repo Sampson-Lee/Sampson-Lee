@@ -1,5 +1,4 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hi, I'm Xinpeng (Sampson) Li.</h1>
-<h3 align="center">Have fun, get things done. </h3>
 
 ## About me
 <a target="_blank" align="center">
