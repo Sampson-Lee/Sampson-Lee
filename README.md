@@ -15,8 +15,8 @@
 [<img align="left" height="90px" width="120px" alt="ICCV" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
 VERT: End-to-End Visual Emotion Recognition with Contextual Transformers. \
 **Xinpeng Li**, Shuyi Mao, Teng Wang, Jinbao Wang, Feng Zheng, and Xiaojiang Peng.  \
-Paper & Code will come soon. \
-Working on revising the paper after the ICCV 2023 submission.
+[**Paper Preliminary Version**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/VERT_Preliminary_Version.pdf) & Code will come soon. \
+Working in Progress.
 
 <br/>
 <br/>
