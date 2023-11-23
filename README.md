@@ -5,9 +5,9 @@
   <img align="right" top="500" height="140" width="250" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif">
 </a>
 
-- 👀 My current research focuses on visual affect computing. You can find my Curriculum Vitae **[here](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
-- 🌱 Currently, I am immersed in the world of cutting-edge papers, writing, and optimization. I might also share related thoughts on my **[Bilibili channel](https://space.bilibili.com/111355637/)**. 
-- 📫 Feel free to reach out to me at (+86) 188 2607 4990 or via email at li.xin.peng@outlook.com. I'm always eager to connect and exchange ideas.
+- 👀 Currently immersed in visual affect computing research. Find my Curriculum Vitae **[here](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
+- 🌱 Engaged in cutting-edge papers, writing, and optimization. Share related thoughts on my **[Bilibili channel](https://space.bilibili.com/111355637/)**. 
+- 📫 Reach out at (+86) 188 2607 4990 or li.xin.peng@outlook.com. Eager to connect and exchange ideas.
 
 
 ## Representative Publications 
