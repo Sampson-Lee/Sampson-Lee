@@ -5,7 +5,7 @@
   <img align="right" top="500" height="140" width="250" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif">
 </a>
 
-- 👀 I specialize in visual affect computing and other AI-related tasks. You can find my Curriculum Vitae **[here](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
+- 👀 My current research focuses on visual affect computing. You can find my Curriculum Vitae **[here](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2023.pdf)**.
 - 🌱 Currently, I am immersed in the world of cutting-edge papers, writing, and optimization. I might also share related thoughts on my **[Bilibili channel](https://space.bilibili.com/111355637/)**. 
 - 📫 Feel free to reach out to me at (+86) 188 2607 4990 or via email at li.xin.peng@outlook.com. I'm always eager to connect and exchange ideas.
 
@@ -14,9 +14,9 @@
 
 [<img align="left" height="90px" width="120px" alt="ICCV" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
 VERT: End-to-End Visual Emotion Recognition with Contextual Transformers. \
-**Xinpeng Li**, Shuyi Mao, Teng Wang, Jinbao Wang, Feng Zheng, and Xiaojiang Peng.  \
-[**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/VERT_Preliminary_Version.pdf) (Preliminary Version) & Code will come soon. \
-Working in Progress.
+**Xinpeng Li**, Teng Wang, Shuyi Mao, Jinbao Wang, Xiaojiang Peng, and Feng Zheng.  \
+[**Paper**](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/VERT_Submitted_Version.pdf) (Submitted Version) & Code will come soon. \
+Submitted to TMM'23.
 
 <br/>
 <br/>
