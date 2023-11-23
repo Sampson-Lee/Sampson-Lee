@@ -10,7 +10,7 @@
 - 📫 Feel free to reach out to me at (+86) 188 2607 4990 or via email at li.xin.peng@outlook.com. I'm always eager to connect and exchange ideas.
 
 
-## Selected Publications 
+## Representative Publications 
 
 [<img align="left" height="90px" width="120px" alt="ICCV" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
 VERT: End-to-End Visual Emotion Recognition with Contextual Transformers. \
