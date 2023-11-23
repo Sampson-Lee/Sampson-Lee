@@ -10,7 +10,7 @@
 - 📫 Reach out at (+86) 188 2607 4990 or li.xin.peng@outlook.com. Eager to connect and exchange ideas.
 
 
-## Representative Publications 
+## Publications 
 
 [<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
 VERT: End-to-End Visual Emotion Recognition with Contextual Transformers. \
@@ -33,7 +33,7 @@ Accepted by **NeurIPS'23**.
 [<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_AUX_logo.png"/>]()
 Facial Action Units as A Bridge of Joint Dataset Training for Facial Expression Recognition. \
 Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang. \
-[Paper](https://arxiv.org/pdf/2211.06609.pdf)  & Code will come soon. \
+[Paper](https://arxiv.org/pdf/2211.06609.pdf) (Preliminary version) & Code will come soon. \
 Submitted to **TMM'23**.
 
 <br/>
