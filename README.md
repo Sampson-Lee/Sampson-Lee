@@ -13,7 +13,7 @@
 ## Publications 
 
 [<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
-VERT: End-to-End Visual Emotion Recognition with Contextual Transformers. \
+VERT: End-to-End Visual Emotion Recognition with Subject-Context Transformers. \
 **Xinpeng Li**, Teng Wang, Shuyi Mao, Jinbao Wang, Xiaojiang Peng, and Feng Zheng.  \
 [Paper](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/VERT_Submitted_Version.pdf) (Submitted version) & Code will come soon. \
 Submitted to **TMM'23**.
