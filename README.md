@@ -5,18 +5,18 @@
   <img align="right" top="500" height="80" width="140" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif">
 </a>
 
-- 🎓 Incoming PhD candidate at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2024_Mar.pdf).
-- 👀 Currently engaged in artificial intelligence and affect computing research.
-- 📫 Feel free to reach out at (+86) 188 2607 4990 or li.xin.peng@outlook.com.
+- 🎓 A PhD candidate at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2024_Mar.pdf).
+- 👀 Currently engaged in artificial intelligence and social interaction research.
+- 📫 Feel free to reach out at li.xin.peng@outlook.com.
 
 
 ## Publications 
 
 [<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
-VERT: End-to-End Visual Emotion Recognition with Subject-Context Transformers. \
-**Xinpeng Li**, Teng Wang, Shuyi Mao, Jinbao Wang, Xiaojiang Peng, and Feng Zheng.  \
-[Paper](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/VERT_Submitted_Version.pdf) (Submitted version) & Code will come soon. \
-Submitted to **TMM'23**.
+Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer. \
+**Xinpeng Li**, Teng Wang, Jian Zhao, Shuyi Mao, Jinbao Wang, Feng Zheng, Xiaojiang Peng, Xuelong Li.  \
+[Paper](https://arxiv.org/abs/2404.172058) & Code will come soon. \
+Accepted by **ACMMM'24**.
 
 <br/>
 <br/>
