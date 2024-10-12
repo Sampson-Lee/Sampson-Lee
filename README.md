@@ -5,7 +5,7 @@
   <img align="right" top="500" height="80" width="140" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif">
 </a>
 
-- 🎓 A PhD candidate at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2024_Mar.pdf).
+- 🎓 A PhD candidate at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV_2024_Mar](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2024_Mar.pdf).
 - 👀 Currently engaged in artificial intelligence and social interaction research.
 - 📫 Feel free to contact me at li.xin.peng@outlook.com.
 
