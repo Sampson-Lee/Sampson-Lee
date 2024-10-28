@@ -15,7 +15,7 @@
 [<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
 Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer. \
 **Xinpeng Li**, Teng Wang, Jian Zhao, Shuyi Mao, Jinbao Wang, Feng Zheng, Xiaojiang Peng, Xuelong Li.  \
-[Paper](https://arxiv.org/abs/2404.172058) & Code will come soon. \
+[Paper](https://arxiv.org/abs/2404.172058) & [Code](https://github.com/Sampson-Lee/DSCT). \
 Accepted by **ACMMM'24**.
 
 <br/>
