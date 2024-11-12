@@ -16,7 +16,7 @@
 Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer. \
 **Xinpeng Li**, Teng Wang, Jian Zhao, Shuyi Mao, Jinbao Wang, Feng Zheng, Xiaojiang Peng, Xuelong Li.  \
 [Paper](https://arxiv.org/abs/2404.172058) & [Code](https://github.com/Sampson-Lee/DSCT). \
-Accepted by **ACMMM'24**.
+ACM Multimedia, 2024.
 
 <br/>
 <br/>
@@ -25,7 +25,7 @@ Accepted by **ACMMM'24**.
 Facial Action Units as A Bridge of Joint Dataset Training for Facial Expression Recognition. \
 Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang. \
 [Paper](https://arxiv.org/pdf/2211.06609.pdf) & Code will come soon. \
-Accepted to **TMM'24**.
+IEEE Transactions on Multimedia, 2024.
 
 <br/>
 <br/>
@@ -34,7 +34,7 @@ Accepted to **TMM'24**.
 Real3D-AD: A Dataset of Point Cloud Anomaly Detection. \
 Jiaqi Liu, Guoyang Xie, Ruitao Chen, **Xinpeng Li**, Jinbao Wang, Yong Liu, Chengjie Wang, Feng Zheng. \
 [Paper](https://arxiv.org/pdf/2309.13226.pdf)  & [Code](https://github.com/M-3LAB/Real3D-AD). \
-Accepted by **NeurIPS'23**.
+NeurIPS Datasets and Benchmarks Track, 2023.
 
 
 <br/>
@@ -44,7 +44,7 @@ Accepted by **NeurIPS'23**.
 Rail Detection: An Efficient Row-based Network and a New Benchmark. \
 **Xinpeng Li**, and Xiaojiang Peng. \
 [Paper](https://arxiv.org/pdf/2304.05667.pdf) & [Code](https://github.com/Sampson-Lee/Rail-Detection). \
-Accepted by **ACMMM'22**.
+ACM Multimedia, 2022.
 
 <br/>
 <br/>
@@ -53,7 +53,7 @@ Accepted by **ACMMM'22**.
 Sequential Interactive Biased Network for Context-Aware Emotion Recognition. \
 **Xinpeng Li**, Xiaojiang Peng, and Changxing Ding. \
 [Paper](https://ieeexplore.ieee.org/document/9484370) & [Code](https://github.com/Sampson-Lee/SIB-Net). \
-Accepted by **IJCB'21**.
+International Joint Conference on Biometrics, 2021.
 
 
 <br/>
