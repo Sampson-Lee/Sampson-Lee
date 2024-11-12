@@ -21,20 +21,21 @@ Accepted by **ACMMM'24**.
 <br/>
 <br/>
 
+[<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_AUX_logo.png"/>]()
+Facial Action Units as A Bridge of Joint Dataset Training for Facial Expression Recognition. \
+Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang. \
+[Paper](https://arxiv.org/pdf/2211.06609.pdf) & Code will come soon. \
+Accepted to **TMM'24**.
+
+<br/>
+<br/>
+
 [<img align="left" height="90px" width="120px" alt="NeurIPS'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/NeurIPS_2023_Real3D_AD_logo.png"/>]()
 Real3D-AD: A Dataset of Point Cloud Anomaly Detection. \
 Jiaqi Liu, Guoyang Xie, Ruitao Chen, **Xinpeng Li**, Jinbao Wang, Yong Liu, Chengjie Wang, Feng Zheng. \
 [Paper](https://arxiv.org/pdf/2309.13226.pdf)  & [Code](https://github.com/M-3LAB/Real3D-AD). \
 Accepted by **NeurIPS'23**.
 
-<br/>
-<br/>
-
-[<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_AUX_logo.png"/>]()
-Facial Action Units as A Bridge of Joint Dataset Training for Facial Expression Recognition. \
-Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang. \
-[Paper](https://arxiv.org/pdf/2211.06609.pdf) & Code will come soon. \
-Accepted to **TMM'23**.
 
 <br/>
 <br/>
