@@ -7,7 +7,7 @@
 
 - 🎓 A first-year PhD at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2024_Mar.pdf) (updated in Mar. 2024).
 - 👀 Currently engaged in artificial intelligence and social interaction research.
-- 📫 Feel free to contact me at li.xin.peng@outlook.com.
+- 📫 Feel free to contact me at li.xin.peng@outlook.com or xinpeng.li@utdallas.edu.
 
 
 ## Publications 
