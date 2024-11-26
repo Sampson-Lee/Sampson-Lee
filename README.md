@@ -10,7 +10,6 @@
 - ♥️ Play badminton 🏸 and deliver humorous stories 🎤 outside of research.
 - 📫 Feel free to contact me at li.xin.peng@outlook.com or xinpeng.li@utdallas.edu.
 
-<br/>
 
 ## Publications 
 
