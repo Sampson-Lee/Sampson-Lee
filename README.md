@@ -2,13 +2,13 @@
 
 ## About me
 <a target="_blank" align="center">
-  <img align="right" top="500" height="80" width="140" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif">
+  <img align="right" top="500" height="100" width="150" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif">
 </a>
 
 - 🎓 A first-year PhD at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2024_Nov.pdf).
 - 👀 Currently engaged in artificial intelligence and social interaction research.
 - 📫 Feel free to contact me at li.xin.peng@outlook.com or xinpeng.li@utdallas.edu.
-- ♥️ Playing badminton 🏸 and storytelling with humor 🎤 outside of research.
+- ♥️ Play badminton 🏸 and deliver humorous stories 🎤 outside of research.
 
 
 ## Publications 
