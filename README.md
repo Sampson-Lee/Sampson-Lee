@@ -49,7 +49,7 @@ ACM Multimedia, 2022.
 
 <br/>
 <br/>
-
+<!--
 [<img align="left" height="90px" width="120px" alt="IJCB'21" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net_logo.png"/>]()
 Sequential Interactive Biased Network for Context-Aware Emotion Recognition. \
 **Xinpeng Li**, Xiaojiang Peng, and Changxing Ding. \
@@ -58,3 +58,4 @@ International Joint Conference on Biometrics, 2021.
 
 
 <br/>
+-->
