@@ -47,9 +47,10 @@ Rail Detection: An Efficient Row-based Network and a New Benchmark. \
 [Paper](https://arxiv.org/pdf/2304.05667.pdf) & [Code](https://github.com/Sampson-Lee/Rail-Detection). \
 ACM Multimedia, 2022.
 
-<br/>
-<br/>
 <!--
+<br/>
+<br/>
+
 [<img align="left" height="90px" width="120px" alt="IJCB'21" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/IJCB_2021_SCB_Net_logo.png"/>]()
 Sequential Interactive Biased Network for Context-Aware Emotion Recognition. \
 **Xinpeng Li**, Xiaojiang Peng, and Changxing Ding. \
