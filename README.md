@@ -5,14 +5,14 @@
 <!--   <img align="right" top="500" height="100" width="160" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif"> -->
 <!-- </a> -->
 
-- 🎓 A first-year PhD at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2024_Dec.pdf) & [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=59fdU3wAAAAJ).
+- 🎓 A first-year PhD at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2024_Dec.pdf).
 - 👀 Currently engaged in artificial intelligence and social interaction research.
 - ♥️ Play badminton 🏸 and deliver humorous stories 🎤 outside of research.
 - 📫 Feel free to contact me at li.xin.peng@outlook.com or xinpeng.li@utdallas.edu.
 
 
 ## Publications 
-Below are selected papers.
+Here are some selected papers. Please refer to [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=59fdU3wAAAAJ) for the full list.
 
 [<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
 Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer. \
@@ -28,7 +28,7 @@ Facial Action Units as A Bridge of Joint Dataset Training for Facial Expression 
 Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang. \
 [Paper](https://arxiv.org/pdf/2211.06609.pdf) & [Code](https://github.com/msy1412/ABAW4). \
 IEEE Transactions on Multimedia, 2024.
-
+<!--
 <br/>
 <br/>
 
@@ -37,7 +37,7 @@ Real3D-AD: A Dataset of Point Cloud Anomaly Detection. \
 Jiaqi Liu, Guoyang Xie, Ruitao Chen, **Xinpeng Li**, Jinbao Wang, Yong Liu, Chengjie Wang, Feng Zheng. \
 [Paper](https://arxiv.org/pdf/2309.13226.pdf)  & [Code](https://github.com/M-3LAB/Real3D-AD). \
 NeurIPS Datasets and Benchmarks Track, 2023.
-
+-->
 
 <br/>
 <br/>
