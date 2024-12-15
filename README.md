@@ -12,7 +12,7 @@
 
 
 ## Publications 
-- Here are some selected papers. * indicates equal contribution.
+Below are selected papers.
 
 [<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
 Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer. \
