@@ -13,6 +13,7 @@
 
 ## Publications 
 Here are some selected papers. Please refer to [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=59fdU3wAAAAJ) for the full list.
+<br/>
 
 [<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_VERT_logo.png"/>]()
 Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer. \
@@ -20,7 +21,6 @@ Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context T
 [Paper](https://arxiv.org/abs/2404.172058) & [Code](https://github.com/Sampson-Lee/DSCT). \
 ACM Multimedia, 2024.
 
-<br/>
 <br/>
 
 [<img align="left" height="90px" width="120px" alt="TMM'23" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/TMM_2023_AUX_logo.png"/>]()
@@ -39,7 +39,6 @@ Jiaqi Liu, Guoyang Xie, Ruitao Chen, **Xinpeng Li**, Jinbao Wang, Yong Liu, Chen
 NeurIPS Datasets and Benchmarks Track, 2023.
 -->
 
-<br/>
 <br/>
 
 [<img align="left" height="90px" width="120px" alt="ACMMM'22" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/ACM_MM_2022_Rail_Detection_logo.png"/>]()
