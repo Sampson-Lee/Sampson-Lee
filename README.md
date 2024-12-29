@@ -10,7 +10,7 @@
 - ♥️ I like playing badminton and writing short stories outside of research.
 - 📧 Feel free to contact me at li.xin.peng@outlook.com or xinpeng.li@utdallas.edu.
 
-
+<!--
 ## Publications 
 Here are some selected papers. Please refer to [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=59fdU3wAAAAJ) for the full list.
 <br/>
@@ -28,7 +28,7 @@ Facial Action Units as A Bridge of Joint Dataset Training for Facial Expression 
 Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang. \
 [Paper](https://arxiv.org/pdf/2211.06609.pdf) & [Code](https://github.com/msy1412/ABAW4). \
 IEEE Transactions on Multimedia, 2024.
-<!--
+
 <br/>
 <br/>
 
@@ -37,7 +37,7 @@ Real3D-AD: A Dataset of Point Cloud Anomaly Detection. \
 Jiaqi Liu, Guoyang Xie, Ruitao Chen, **Xinpeng Li**, Jinbao Wang, Yong Liu, Chengjie Wang, Feng Zheng. \
 [Paper](https://arxiv.org/pdf/2309.13226.pdf)  & [Code](https://github.com/M-3LAB/Real3D-AD). \
 NeurIPS Datasets and Benchmarks Track, 2023.
--->
+
 
 <br/>
 
