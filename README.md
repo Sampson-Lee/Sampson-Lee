@@ -6,7 +6,7 @@
 <!--   <img align="right" top="500" height="100" width="160" alt="GIF" src="https://github.com/Sampson-Lee/Sampson-Lee/blob/main/photos.gif"> -->
 <!-- </a> -->
 
-- 🏫 A PhD at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [homepage](https://sampson-lee.github.io/).
+- 🏫 A PhD at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [academic homepage](https://sampson-lee.github.io/).
 - 👀 Currently engaged in artificial intelligence and social interaction understanding research.
 - ♥️ I like playing badminton and writing short stories outside of research.
 - 📧 Feel free to contact me at li.xin.peng@outlook.com or xinpeng.li@utdallas.edu.
